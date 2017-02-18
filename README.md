@@ -30,7 +30,5 @@ Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for 
 Send `/help` to [@TabChiRobot](https://telegram.me/TabChiRobot) in telegram
 ## Developers
 
- * [Amir](https://t.me/oOo_2017_oOo)
+ * [Amir Ho3in](https://telegram.me/Amir_Ho3in051)
 
-
-### Powered by [TeleMute](https://t.me/Telee_Mute)
